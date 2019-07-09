@@ -64,7 +64,9 @@ h3, .timer {
 }
 
 .site-links > a:hover {
-    text-decoration: underline;
+    text-decoration: none;
+    color: orangered;
+    transition: .4s;
 }
 
 .notice {
