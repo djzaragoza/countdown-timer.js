@@ -36,6 +36,9 @@ h3, .timer {
 
 .lg-cta {
     visibility: hidden;
+    font-size: 20px;
+    color: white;
+    margin-bottom: -20px;
 }
 
 .lg-cta > img {
@@ -65,7 +68,7 @@ h3, .timer {
 
 .site-links > a:hover {
     text-decoration: none;
-    color: orangered;
+    color: limegreen;
     transition: .4s;
 }
 
