@@ -69,7 +69,7 @@ h3, .timer {
 .site-links > a:hover {
     text-decoration: none;
     color: limegreen;
-    transition: .4s;
+    transition: .3s;
 }
 
 .notice {
@@ -117,5 +117,6 @@ h3, .timer {
 }
 
 .fa:hover {
-    opacity: .4;
+    color: limegreen;
+    transition: .3s;
 }
